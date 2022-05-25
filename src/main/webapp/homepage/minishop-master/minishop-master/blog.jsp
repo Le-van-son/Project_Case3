@@ -58,27 +58,27 @@
 </div>
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-        <a class="navbar-brand" href="index.html">Minishop</a>
+        <a class="navbar-brand" href="homepage.jsp">Minishop</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="oi oi-menu"></span> Menu
         </button>
 
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item active"><a href="homepage.jsp" class="nav-link">Home</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Catalog</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown04">
-                        <a class="dropdown-item" href="shop.html">Shop</a>
-                        <a class="dropdown-item" href="product-single.html">Single Product</a>
-                        <a class="dropdown-item" href="cart.html">Cart</a>
-                        <a class="dropdown-item" href="checkout.html">Checkout</a>
+                        <a class="dropdown-item" href="homeshop.jsp">Shop</a>
+                        <a class="dropdown-item" href="product-single.jsp">Single Product</a>
+                        <a class="dropdown-item" href="cart.jsp">Cart</a>
+                        <a class="dropdown-item" href="checkout.jsp">Checkout</a>
                     </div>
                 </li>
-                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-                <li class="nav-item active"><a href="blog.html" class="nav-link">Blog</a></li>
-                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-                <li class="nav-item cta cta-colored"><a href="cart.html" class="nav-link"><span class="icon-shopping_cart"></span>[0]</a></li>
+                <li class="nav-item"><a href="about.jsp" class="nav-link">About</a></li>
+                <li class="nav-item active"><a href="blog.jsp" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="contact.jsp" class="nav-link">Contact</a></li>
+                <li class="nav-item cta cta-colored"><a href="cart.jsp" class="nav-link"><span class="icon-shopping_cart"></span>[0]</a></li>
 
             </ul>
         </div>
@@ -90,7 +90,7 @@
     <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
             <div class="col-md-9 ftco-animate text-center">
-                <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home</a></span> <span>Blog</span></p>
+                <p class="breadcrumbs"><span class="mr-2"><a href="homepage.jsp">Home</a></span> <span>Blog</span></p>
                 <h1 class="mb-0 bread">Blog</h1>
             </div>
         </div>
@@ -104,7 +104,7 @@
                 <div class="row">
                     <div class="col-md-12 d-flex ftco-animate">
                         <div class="blog-entry align-self-stretch d-md-flex">
-                            <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
+                            <a href="blog-single.jsp" class="block-20" style="background-image: url('images/image_1.jpg');">
                             </a>
                             <div class="text d-block pl-md-4">
                                 <div class="meta mb-3">
@@ -114,13 +114,13 @@
                                 </div>
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <p><a href="blog-single.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+                                <p><a href="blog-single.jsp" class="btn btn-primary py-2 px-3">Read more</a></p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-12 d-flex ftco-animate">
                         <div class="blog-entry align-self-stretch d-md-flex">
-                            <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
+                            <a href="blog-single.jsp" class="block-20" style="background-image: url('images/image_2.jpg');">
                             </a>
                             <div class="text d-block pl-md-4">
                                 <div class="meta mb-3">
@@ -130,13 +130,13 @@
                                 </div>
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <p><a href="blog-single.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+                                <p><a href="blog-single.jsp" class="btn btn-primary py-2 px-3">Read more</a></p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-12 d-flex ftco-animate">
                         <div class="blog-entry align-self-stretch d-md-flex">
-                            <a href="blog-single.html" class="block-20" style="background-image: url('images/image_3.jpg');">
+                            <a href="blog-single.jsp" class="block-20" style="background-image: url('images/image_3.jpg');">
                             </a>
                             <div class="text d-block pl-md-4">
                                 <div class="meta mb-3">
@@ -146,13 +146,13 @@
                                 </div>
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <p><a href="blog-single.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+                                <p><a href="blog-single.jsp" class="btn btn-primary py-2 px-3">Read more</a></p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-12 d-flex ftco-animate">
                         <div class="blog-entry align-self-stretch d-md-flex">
-                            <a href="blog-single.html" class="block-20" style="background-image: url('images/image_5.jpg');">
+                            <a href="blog-single.jsp" class="block-20" style="background-image: url('images/image_5.jpg');">
                             </a>
                             <div class="text d-block pl-md-4">
                                 <div class="meta mb-3">
@@ -162,13 +162,13 @@
                                 </div>
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <p><a href="blog-single.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+                                <p><a href="blog-single.jsp" class="btn btn-primary py-2 px-3">Read more</a></p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-12 d-flex ftco-animate">
                         <div class="blog-entry align-self-stretch d-md-flex">
-                            <a href="blog-single.html" class="block-20" style="background-image: url('images/image_6.jpg');">
+                            <a href="blog-single.jsp" class="block-20" style="background-image: url('images/image_6.jpg');">
                             </a>
                             <div class="text d-block pl-md-4">
                                 <div class="meta mb-3">
@@ -178,7 +178,7 @@
                                 </div>
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <p><a href="blog-single.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+                                <p><a href="blog-single.jsp" class="btn btn-primary py-2 px-3">Read more</a></p>
                             </div>
                         </div>
                     </div>
