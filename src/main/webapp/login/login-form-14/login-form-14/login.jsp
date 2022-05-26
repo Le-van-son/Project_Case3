@@ -48,11 +48,12 @@
                         <form action="#" class="signin-form">
                             <div class="form-group mb-3">
                                 <label class="label" for="name">Username</label>
-                                <input type="text" class="form-control" placeholder="Username" required>
+                                <input type="text" id="inputEmail" class="form-control" placeholder="Username" required>
+
                             </div>
                             <div class="form-group mb-3">
                                 <label class="label" for="password">Password</label>
-                                <input type="password" class="form-control" placeholder="Password" required>
+                                <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
                             </div>
                             <div class="form-group">
                                 <button type="submit" class="form-control btn btn-primary rounded submit px-3">Sign In</button>
@@ -69,7 +70,11 @@
                                 </div>
                             </div>
                         </form>
+<<<<<<< HEAD
                         <p class="text-center">Not a member? <a href="/login/regisgter-form/colorlib-regform-33/colorlib-regform-33/regisgterform.jsp">Sign Up</a></p>
+=======
+                        <p class="text-center">Not a member? <a href="/signup/colorlib-regform-33/colorlib-regform-33/index.html">Sign Up</a></p>
+>>>>>>> b1a8a124fcbb3dcbfe4cd1c31b4dc2efaa55c899
                     </div>
                 </div>
             </div>
