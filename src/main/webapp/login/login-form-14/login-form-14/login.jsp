@@ -40,7 +40,7 @@
                             </div>
                             <div class="w-100">
                                 <p class="social-media d-flex justify-content-end">
-                                    <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a>
+                                    <a href="https://www.facebook.com/" class="social-icon d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a>
                                     <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a>
                                 </p>
                             </div>
@@ -65,11 +65,11 @@
                                     </label>
                                 </div>
                                 <div class="w-50 text-md-right">
-                                    <a href="#">Forgot Password</a>
+                                    <a href="">Forgot Password</a>
                                 </div>
                             </div>
                         </form>
-                        <p class="text-center">Not a member? <a data-toggle="tab" href="#signup">Sign Up</a></p>
+                        <p class="text-center">Not a member? <a href="/login/regisgter-form/colorlib-regform-33/colorlib-regform-33/regisgterform.jsp">Sign Up</a></p>
                     </div>
                 </div>
             </div>
